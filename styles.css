@@ -28,8 +28,8 @@ button, a { -webkit-tap-highlight-color: transparent; }
 button { color: inherit; }
 a { color: inherit; text-decoration: none; }
 a:hover { text-decoration: none; }
-.contact-links a:hover, .tab:hover, .button:hover, .text-link:hover, .back-link:hover, .project-link:hover { opacity: .6; }
-.project-card:hover .project-title, .profile-header:hover .profile-heading { opacity: .6; }
+.contact-links a:hover, .tab:hover, .button:hover, .text-link:hover, .back-link:hover, .project-link:hover { opacity: .8; }
+.project-card:hover .project-title, .profile-header:hover .profile-heading { opacity: .8; }
 a:focus-visible, button:focus-visible, [tabindex]:focus-visible { outline: 2px solid var(--color-text); outline-offset: 4px; }
 button { cursor: pointer; }
 button:disabled { cursor: default; }
